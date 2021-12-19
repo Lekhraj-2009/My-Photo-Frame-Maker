@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+#heading{
+    font-family: 'Luckiest Guy', cursive;
+    width: 475px;
+    height: 60px;
+    font-size: 35px;
+}
+hr{
+    border-color: black;
+}
+label{
+    font-size: 18px;
+}
+#snapshot{
+    margin-top: 40px;
+}
